@@ -1,23 +1,23 @@
 # PNU_3991_AR
 ---------
-### بهناز حسن بیگی
+### پروین حاجت پور بیرگانی
  
 ---
-- [github](https://github.com/bahssanbeygi)
-- [PNU_3991_AR](https://github.com/bahssanbeygi/PNU_3991_AR)
-- [resume](https://bahssanbeygi.github.io/resume/)
-- [English resume](https://bahssanbeygi.github.io/resume/resumeen/)
-- [SOP](https://github.com/bahssanbeygi/SOP) 
-- [javascript Certificate](https://bahssanbeygi.github.io/JScertificate/)
-- [jlord patchwork](https://bahssanbeygi.github.io/Patchworkpic/)
+- [github](https://parvinhajatpour.github.io/)
+- [PNU_3991_AR](https://parvinhajatpour.github.io//PNU_3991_AR)
+- [resume](https://parvinhajatpour.github.io//resume/)
+- [English resume](https://parvinhajatpour.github.io//resume/resumeen/)
+- [SOP](https://parvinhajatpour.github.io//SOP) 
+- [javascript Certificate](https://parvinhajatpour.github.io//JScertificate/)
+- [jlord patchwork](https://parvinhajatpour.github.io//Patchworkpic/)
   
   --------------
 >ارزیابی ها
 
 ## ارزیابی بخش عمومی 
--[ارزیابی رزومه  و انگیزه نامه ](https://bahssanbeygi.github.io/Validation/validation1/)
+-[ارزیابی رزومه  و انگیزه نامه ](https://parvinhajatpour.github.io//Validation/validation1/)
 
--[ارزیابی بخش عمومی ](https://bahssanbeygi.github.io/Validation/validation2/)
+-[ارزیابی بخش عمومی ](https://parvinhajatpour.github.io//Validation/validation2/)
 
 ## ارزیابی دروس کارشناسی ارشد
 -[ارزیابی درس الگوریتم پیشرفته ]()
